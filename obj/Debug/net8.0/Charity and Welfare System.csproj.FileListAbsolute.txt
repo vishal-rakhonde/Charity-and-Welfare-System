@@ -1,0 +1,174 @@
+F:\Charity and Welfare System\obj\Debug\net8.0\Charity and Welfare System.csproj.AssemblyReference.cache
+F:\Charity and Welfare System\obj\Debug\net8.0\Charity and Welfare System.GeneratedMSBuildEditorConfig.editorconfig
+F:\Charity and Welfare System\obj\Debug\net8.0\Charity and Welfare System.AssemblyInfoInputs.cache
+F:\Charity and Welfare System\obj\Debug\net8.0\Charity and Welfare System.AssemblyInfo.cs
+F:\Charity and Welfare System\obj\Debug\net8.0\Charity and Welfare System.csproj.CoreCompileInputs.cache
+F:\Charity and Welfare System\obj\Debug\net8.0\Charity and Welfare System.MvcApplicationPartsAssemblyInfo.cs
+F:\Charity and Welfare System\obj\Debug\net8.0\Charity and Welfare System.MvcApplicationPartsAssemblyInfo.cache
+F:\Charity and Welfare System\bin\Debug\net8.0\appsettings.Development.json
+F:\Charity and Welfare System\bin\Debug\net8.0\appsettings.json
+F:\Charity and Welfare System\bin\Debug\net8.0\Charity and Welfare System.staticwebassets.endpoints.json
+F:\Charity and Welfare System\bin\Debug\net8.0\Charity and Welfare System.exe
+F:\Charity and Welfare System\bin\Debug\net8.0\Charity and Welfare System.deps.json
+F:\Charity and Welfare System\bin\Debug\net8.0\Charity and Welfare System.runtimeconfig.json
+F:\Charity and Welfare System\bin\Debug\net8.0\Charity and Welfare System.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Charity and Welfare System.pdb
+F:\Charity and Welfare System\bin\Debug\net8.0\Azure.Core.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Azure.Identity.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Humanizer.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.ClientModel.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.CodeDom.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.Formats.Asn1.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.IO.Pipelines.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.Text.Json.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+F:\Charity and Welfare System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Charity and Welfare System\obj\Debug\net8.0\scopedcss\bundle\Charity and Welfare System.styles.css
+F:\Charity and Welfare System\obj\Debug\net8.0\staticwebassets.build.json
+F:\Charity and Welfare System\obj\Debug\net8.0\staticwebassets.development.json
+F:\Charity and Welfare System\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Charity and Welfare System\obj\Debug\net8.0\staticwebassets\msbuild.Charity and Welfare System.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Charity and Welfare System\obj\Debug\net8.0\staticwebassets\msbuild.Charity and Welfare System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\Charity and Welfare System\obj\Debug\net8.0\staticwebassets\msbuild.build.Charity and Welfare System.props
+F:\Charity and Welfare System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Charity and Welfare System.props
+F:\Charity and Welfare System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Charity and Welfare System.props
+F:\Charity and Welfare System\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Charity and Welfare System\obj\Debug\net8.0\Charity .A4FEBA26.Up2Date
+F:\Charity and Welfare System\obj\Debug\net8.0\Charity and Welfare System.dll
+F:\Charity and Welfare System\obj\Debug\net8.0\refint\Charity and Welfare System.dll
+F:\Charity and Welfare System\obj\Debug\net8.0\Charity and Welfare System.pdb
+F:\Charity and Welfare System\obj\Debug\net8.0\Charity and Welfare System.genruntimeconfig.cache
+F:\Charity and Welfare System\obj\Debug\net8.0\ref\Charity and Welfare System.dll
+F:\Charity and Welfare System\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Charity and Welfare System.props" />
+</Project>
