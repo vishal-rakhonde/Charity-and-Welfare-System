@@ -46,7 +46,6 @@ namespace Charity_and_Welfare_System.Controllers
 
             return Ok("Login successful");
         }
-
         // Hash password
         private string HashPassword(string password)
         {
